@@ -15,10 +15,10 @@ Hi Humans!
   <font size="3">
   <table width="100%">
 <thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
+//<tr>
+//<th></th>
+//<th></th>
+//</tr>
 </thead>
 <tbody>
 <tr>
