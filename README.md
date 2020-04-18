@@ -12,8 +12,8 @@ Hi Humans!
 
 
 <footer>
-  <font size=3>
-  <table>
+  <font size="3">
+  <table width="100%">
 <thead>
 <tr>
 <th></th>
