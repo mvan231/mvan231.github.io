@@ -8,9 +8,6 @@ Hi Humans!
 
 
 
-[API](https://mvan231.github.io/LatestRoosterAgenda.json)
-
-
 <footer>
 
 
