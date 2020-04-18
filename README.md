@@ -10,6 +10,10 @@ Hi Humans!
 
 [API](https://mvan231.github.io/LatestRoosterAgenda.json)
 
+| something | else |
+| --- | --- |
+| something | more |
+
 <footer>
 <p style="float:left; width: 20%;">
 | Copyright © Jonathan Gossage, 2018 |
