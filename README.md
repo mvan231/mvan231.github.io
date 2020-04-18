@@ -1,4 +1,4 @@
-# RoosternaarAgenda
+# Rooster naar Agenda
 
 Hi Humans!
 
