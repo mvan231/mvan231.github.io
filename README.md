@@ -22,7 +22,7 @@ Hi Humans!
 Email addresses will be added when they are setup.
 </p>
 
-  <font size="3">
+  <font size="6" face="Courier New" color="Red">
   <table width="100%">
 
 <tbody>
