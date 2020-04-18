@@ -6,9 +6,6 @@ Hi Humans!
 
 [The latest version of Rooster naar Agenda can be found here](https://www.icloud.com/shortcuts/8b236e1997994bfd8ec3f0e54ebbf475)
 
-
-
-<footer>
 <p style="float:left; width: 20%;">
 Email addresses will be added when they are setup.
 </p>
@@ -17,9 +14,13 @@ Email addresses will be added when they are setup.
 
 <tbody>
 <tr>
-<td><a href="https://mvan231.github.io/LatestRoosterAgenda.json">API</a></td>
+<td></td>
 </tr>
 </tbody>
 </table>
   </font>
+  
+<footer>
+<a href="https://mvan231.github.io/LatestRoosterAgenda.json">API</a>
+
 </footer>
