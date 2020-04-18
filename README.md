@@ -25,7 +25,6 @@ Email addresses will be added when they are setup.
 <tbody>
 <tr>
 <td><a href="https://mvan231.github.io/LatestRoosterAgenda.json">API</a></td>
-
 </tr>
 </tbody>
 </table>
