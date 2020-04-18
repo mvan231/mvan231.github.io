@@ -14,12 +14,7 @@ Hi Humans!
 <footer>
   <font size="3">
   <table width="100%">
-<thead>
-//<tr>
-//<th></th>
-//<th></th>
-//</tr>
-</thead>
+
 <tbody>
 <tr>
 <td><a href="https://mvan231.github.io/LatestRoosterAgenda.json">API</a></td>
