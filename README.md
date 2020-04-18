@@ -19,7 +19,7 @@ Hi Humans!
 Email addresses will be added when they are setup.
 </p>
 
-  <font size="6" face="Courier New" color="Red">
+  <font size="6" face="Courier New">
   <table width="100%">
 
 <tbody>
